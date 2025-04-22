@@ -1,4 +1,4 @@
-# typst-introduction
+# introduction_with_typst
 
 ## Typstの環境構築
 ```
